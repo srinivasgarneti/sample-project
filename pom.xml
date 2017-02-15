@@ -123,7 +123,7 @@
 <repository>
 <id>nexus-release</id>
 <name>InternalRelease</name>
-<url>http://localhost/repository/maven-releases/</url>
+<url>http://localhost:8081/repository/maven-releases/</url>
 </repository>
 </distributionManagement>
 </project>
